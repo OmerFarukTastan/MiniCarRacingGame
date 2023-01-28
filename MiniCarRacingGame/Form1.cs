@@ -260,6 +260,7 @@ namespace MiniCarRacingGame
                 timer1.Enabled = true;
                 over.Visible = false;
                 lblRestart.Visible = false;
+                collectedcoin = 0;
             }
             
             
